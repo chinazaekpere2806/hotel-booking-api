@@ -1,0 +1,55 @@
+hotel-booking-api/
+│
+├── main.go
+├── go.mod
+├── go.sum
+│
+├── handlers/
+│   ├── booking_handler.go
+│   ├── guest_handler.go
+│   ├── room_handler.go
+│   └── report_handler.go
+│
+├── services/
+│   ├── booking_service.go
+│   ├── guest_service.go
+│   ├── room_service.go
+│   ├── pricing_service.go
+│   ├── availability_service.go
+│   └── report_service.go
+│
+├── storage/
+│   ├── booking_storage.go
+│   ├── guest_storage.go
+│   ├── room_storage.go
+│   └── json.go
+│
+├── models/
+│   ├── booking.go
+│   ├── guest.go
+│   ├── room.go
+│   └── response.go
+│
+├── routes/
+│   ├── booking_routes.go
+│   ├── guest_routes.go
+│   ├── room_routes.go
+│   └── routes.go
+│
+├── middleware/
+│   ├── logger.go
+│   ├── recovery.go
+│   └── requestid.go
+│
+├── utils/
+│   ├── dates.go
+│   ├── id.go
+│   ├── validation.go
+│   └── response.go
+│
+├── storage-data/
+│   ├── bookings.json
+│   ├── guests.json
+│   └── rooms.json
+│
+└── README.md

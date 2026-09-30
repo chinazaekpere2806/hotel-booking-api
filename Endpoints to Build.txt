@@ -1,0 +1,26 @@
+Endpoints to Build
+Rooms
+Add room
+Get all rooms
+Get room by ID
+Update room
+Delete room
+Get available rooms
+Get rooms by type
+Get rooms by status
+
+Guests
+Register guest
+Get all guests
+Get guest by ID
+Update guest
+Delete guest
+
+Bookings
+Create booking
+Get booking by ID
+Get all bookings
+Get bookings by guest
+Cancel booking
+Check in
+Check out

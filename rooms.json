@@ -1,0 +1,47 @@
+[
+  {
+    "id": "RM001",
+    "roomNumber": 101,
+    "type": "Single",
+    "capacity": 1,
+    "pricePerNight": 25000,
+    "status": "Available",
+    "description": "Standard single room"
+  },
+  {
+    "id": "RM002",
+    "roomNumber": 102,
+    "type": "Double",
+    "capacity": 2,
+    "pricePerNight": 50000,
+    "status": "Occupied",
+    "description": "Double room"
+  },
+  {
+    "id": "RM003",
+    "roomNumber": 201,
+    "type": "Deluxe",
+    "capacity": 3,
+    "pricePerNight": 85000,
+    "status": "Booked",
+    "description": "Deluxe room"
+  },
+  {
+    "id": "RM004",
+    "roomNumber": 301,
+    "type": "Executive Suite",
+    "capacity": 4,
+    "pricePerNight": 120000,
+    "status": "Cleaning",
+    "description": "Suite"
+  },
+  {
+    "id": "RM005",
+    "roomNumber": 302,
+    "type": "Single",
+    "capacity": 1,
+    "pricePerNight": 25000,
+    "status": "Maintenance",
+    "description": "Needs AC repair"
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "id": "BK001",
+    "guestId": {
+      "id": "GST001",
+      "firstName": "Samuel",
+      "lastName": "Ezugwu",
+      "email": "samuel@example.com",
+      "phone": "+2348011111111"
+    },
+    "roomId": {
+      "id": "RM003",
+      "roomNumber": 201,
+      "type": "Deluxe",
+      "capacity": 3,
+      "pricePerNight": 85000,
+      "status": "Booked",
+      "description": "Deluxe room"
+    },
+    "roomType": {
+      "id": "RM003",
+      "roomNumber": 201,
+      "type": "Deluxe",
+      "capacity": 3,
+      "pricePerNight": 85000,
+      "status": "Booked",
+      "description": "Deluxe room"
+    },
+    "checkIn": "2026-08-10T14:00:00+01:00",
+    "duration": 3,
+    "checkOut": "2026-08-13T14:00:00+01:00",
+    "numberOfGuests": 2,
+    "status": "Confirmed",
+    "totalCost": 255000
+  },
+  {
+    "id": "BK002",
+    "guestId": {
+      "id": "GST002",
+      "firstName": "Ada",
+      "lastName": "Okafor",
+      "email": "ada@example.com",
+      "phone": "+2348022222222"
+    },
+    "roomId": {
+      "id": "RM002",
+      "roomNumber": 102,
+      "type": "Double",
+      "capacity": 2,
+      "pricePerNight": 50000,
+      "status": "Occupied",
+      "description": "Double room"
+    },
+    "roomType": {
+      "id": "RM002",
+      "roomNumber": 102,
+      "type": "Double",
+      "capacity": 2,
+      "pricePerNight": 50000,
+      "status": "Occupied",
+      "description": "Double room"
+    },
+    "checkIn": "2026-08-01T14:00:00+01:00",
+    "duration": 4,
+    "checkOut": "2026-08-05T14:00:00+01:00",
+    "numberOfGuests": 2,
+    "status": "Checked-In",
+    "totalCost": 200000
+  },
+  {
+    "id": "BK003",
+    "guestId": {
+      "id": "GST003",
+      "firstName": "David",
+      "lastName": "Bello",
+      "email": "david@example.com",
+      "phone": "+2348033333333"
+    },
+    "roomId": {
+      "id": "RM004",
+      "roomNumber": 301,
+      "type": "Executive Suite",
+      "capacity": 4,
+      "pricePerNight": 120000,
+      "status": "Cleaning",
+      "description": "Suite"
+    },
+    "roomType": {
+      "id": "RM004",
+      "roomNumber": 301,
+      "type": "Executive Suite",
+      "capacity": 4,
+      "pricePerNight": 120000,
+      "status": "Cleaning",
+      "description": "Suite"
+    },
+    "checkIn": "2026-08-15T14:00:00+01:00",
+    "duration": 3,
+    "checkOut": "2026-08-18T14:00:00+01:00",
+    "numberOfGuests": 3,
+    "status": "Cancelled",
+    "totalCost": 360000
+  }
+]
